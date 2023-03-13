@@ -12,7 +12,7 @@ Estes serviços estão atualmente disponíveis para serem consumidos pelo cidad�
 
 Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretoria de Tecnologia e Inovação (DITI), é a responsável pela definição das diretrizes da Carta de Serviços ao Cidadão. A Carta de Serviços pode ser vista como um ambiente digital (repositório digital) contendo diversas informações pertinentes aos serviços ofertados pelos órgãos e entidades do Poder Executivo estadual.
 
-.. image:: teste.png
+.. image:: teste.jpg
 
 is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.

@@ -3,6 +3,8 @@ Bem vindo ao Guia de utilização do Sistema Administrativo Carta de Serviços |
 Welcome to Lumache's documentation!
 ===================================
 
+Bem vindo ao Guia de utilização do Sistema Administrativo Carta de Serviços | 2023
+
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_

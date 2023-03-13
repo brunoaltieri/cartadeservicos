@@ -2,7 +2,7 @@ Guia do Sistema Administrativo Carta de Serviços (SACS) | 2023
 ==================================================================================
 
 
-**Carta de Serviços ao Cidadão** (sc.gov.br).
+**Carta de Serviços ao Cidadão** (sc.gov.br)
 
 O Governo do Estado de Santa Catarina adotou algumas estratégias para contribuir com o avanço tecnológico e entregar seus serviços em nível de excelência ao cidadão. Uma dessas estratégias é o avanço na implementação de temas como o Governo Digital. O plano de um governo sem papel contribuiu, por exemplo, para a digitalização de serviços, organização da informação a fim de gerar conhecimentos no âmbito da gestão pública, a interligação de sistemas interoperáveis do Estado, a contribuição para a redução das contas públicas, trazendo transparência, bem como outras contribuições para a prestação dos serviços públicos. Corroborando com essa estratégia, uma das metas do governo é a de deixar disponíveis e atualizados os serviços prestados pelo Estado ao cidadão.
 
@@ -20,7 +20,7 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
+.. Instrodução::
 
    This project is under active development.
 

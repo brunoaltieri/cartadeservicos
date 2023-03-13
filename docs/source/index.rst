@@ -1,4 +1,4 @@
-Bem vindo ao Guia de utilização do Sistema Administrativo Carta de Serviços | 2023
+Bem vindo ao Guia de utilização do Sistema Administrativo Carta de Serviços | 2023 
 
 Welcome to Lumache's documentation!
 ===================================

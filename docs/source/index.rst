@@ -14,6 +14,31 @@ Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretori
 
 .. image:: teste.jpg
 
+2. INFORMAÇÕES GERAIS
+O Governo do Estado está desenvolvendo o plano de transformação digital, e para isso os órgãos precisam atualizar a carta de serviços, de modo a possuir o censo de TODOS os serviços do estado prestados diretamente ao cidadão.
+E para isso a Carta de Serviços ao Cidadão precisa ser revisada constantemente e deve contemplar 100% dos serviços prestados pelo estado, digitais ou não. 
+Para acesso ao cartaservicos-adm.intranet.ciasc.gov.br é necessário um cadastro prévio pela SEA e só funciona na rede do governo de Santa Catarina.
+
+2.1. PERFIS DE ACESSO
+O órgão deve eleger dois servidores que serão responsáveis por coletar, inserir e revisar os serviços.
+O sistema contempla dois perfis, que devem ser pessoas distintas:
+● Editor: cadastrar os serviços e corrigir eventuais pendências;
+● Revisor: revisar os textos, informações e aprovar os serviços cadastrados ou editados. Pode ainda indicar a existência de pendências para o Editor corrigir. 
+● Administrador: perfil com acesso a todos os cadastros e serviços.
+Importante observar que o editor é aquele que irá inserir no sistema administrativos as informações sobre os serviços que o órgão dispõe. Já o revisor irá conferir, sugerir alterações e aprovar a inclusão do material no sistema. 
+Cabe ressaltar, que o serviço só é publicado e fica disponível no portal (https://www.sc.gov.br/servicos), após aprovação do revisor.
+Por convenção, adotou-se o assessor de comunicação o revisor dos serviços.
+Caso o órgão não tenha cadastrado um usuário editor e/ou um revisor, deve-se encaminhar e-mail para cartadeservicos@sea.sc.gov.br com os dados abaixo para cadastro:
+➔ Nome Completo;
+➔ Email do PAE;
+➔ Perfil de acesso Editor ou Revisor;
+➔ CPF;
+➔ Órgão que está vinculado.
+
+2.2. ACESSO AO SISTEMA
+Inserir o e-mail do PAE cadastrado e senha do mesmo.
+
+
 is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_

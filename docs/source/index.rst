@@ -12,13 +12,14 @@ Estes serviços estão atualmente disponíveis para serem consumidos pelo cidad�
 
 Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretoria de Tecnologia e Inovação (DITI), é a responsável pela definição das diretrizes da Carta de Serviços ao Cidadão. A Carta de Serviços pode ser vista como um ambiente digital (repositório digital) contendo diversas informações pertinentes aos serviços ofertados pelos órgãos e entidades do Poder Executivo estadual.
 
-.. image:: teste.jpg  
+.. image:: teste.jpg    
+
 
 2. INFORMAÇÕES GERAIS 
 
 O Governo do Estado está desenvolvendo o plano de transformação digital, e para isso os órgãos precisam atualizar a carta de serviços, de modo a possuir o censo de TODOS os serviços do estado prestados diretamente ao cidadão.
 E para isso a Carta de Serviços ao Cidadão precisa ser revisada constantemente e deve contemplar 100% dos serviços prestados pelo estado, digitais ou não. 
-Para acesso ao cartaservicos-adm.intranet.ciasc.gov.br é necessário um cadastro prévio pela SEA e só funciona na rede do governo de Santa Catarina.
+Para acesso ao sistema Carta (https://cartaservicos-adm.ciasc.gov.br) é necessário possuir o login gov.br.
 
 2.1. PERFIS DE ACESSO  
 

@@ -14,6 +14,8 @@ Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretori
 
 .. image:: teste.jpg    
 
+![Legenda](teste.jpg)
+
 
 2. INFORMAÇÕES GERAIS 
 

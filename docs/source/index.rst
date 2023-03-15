@@ -12,16 +12,13 @@ Estes serviços estão atualmente disponíveis para serem consumidos pelo cidad�
 
 Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretoria de Tecnologia e Inovação (DITI), é a responsável pela definição das diretrizes da Carta de Serviços ao Cidadão. A Carta de Serviços pode ser vista como um ambiente digital (repositório digital) contendo diversas informações pertinentes aos serviços ofertados pelos órgãos e entidades do Poder Executivo estadual.
 
-.. image:: teste.jpg    
-
-!(teste.jpg)
-
-
-  2. INFORMAÇÕES GERAIS 
+.. image:: teste.jpg  
+  
+2. INFORMAÇÕES GERAIS 
 
 O Governo do Estado está desenvolvendo o plano de transformação digital, e para isso os órgãos precisam atualizar a carta de serviços, de modo a possuir o censo de TODOS os serviços do estado prestados diretamente ao cidadão.
 E para isso a Carta de Serviços ao Cidadão precisa ser revisada constantemente e deve contemplar 100% dos serviços prestados pelo estado, digitais ou não. 
-Para acesso ao sistema Carta (https://cartaservicos-adm.ciasc.gov.br) é necessário possuir o login gov.br.
+Para acesso ao sistema Carta (https://cartaservicos-adm.ciasc.gov.br) é necessário possuir o login gov.br.  
 
 2.1. PERFIS DE ACESSO  
 
@@ -31,7 +28,8 @@ O sistema contempla dois perfis (editor e revisor), que devem ser pessoas distin
 
 * Editor: cadastrar os serviços e corrigir eventuais pendências;
 * Revisor: revisar os textos, informações e aprovar os serviços cadastrados ou editados. Pode ainda indicar a existência de pendências para o Editor corrigir. 
-* Administrador: perfil com acesso a todos os cadastros e serviços.
+* Administrador: perfil com acesso a todos os cadastros e serviços. Este perfil é exclusivo do órgão responsável por cadastrar os usuários no sistema Carta.
+
 Importante observar que o editor é aquele que irá inserir no sistema administrativos as informações sobre os serviços que o órgão dispõe. Já o revisor irá conferir, sugerir alterações e aprovar a inclusão do material no sistema. 
 Cabe ressaltar, que o serviço só é publicado e fica disponível no portal (https://www.sc.gov.br/servicos), após aprovação do revisor.
 Por convenção, adotou-se o assessor de comunicação o revisor dos serviços.

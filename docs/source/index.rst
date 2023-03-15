@@ -33,12 +33,22 @@ O sistema contempla dois perfis (editor e revisor), que devem ser pessoas distin
 Importante observar que o editor é aquele que irá inserir no sistema administrativos as informações sobre os serviços que o órgão dispõe. Já o revisor irá conferir, sugerir alterações e aprovar a inclusão do material no sistema. 
 Cabe ressaltar, que o serviço só é publicado e fica disponível no portal (https://www.sc.gov.br/servicos), após aprovação do revisor.
 Por convenção, adotou-se o assessor de comunicação o revisor dos serviços.
-Caso o órgão não tenha cadastrado um usuário editor e/ou um revisor, deve-se encaminhar e-mail para cartadeservicos@sea.sc.gov.br com os dados abaixo para cadastro:
-➔ Nome Completo;
-➔ Email do PAE;
-➔ Perfil de acesso Editor ou Revisor;
-➔ CPF;
-➔ Órgão que está vinculado.
+Caso o órgão não tenha cadastrado um usuário editor e/ou um revisor, deve-se encaminhar e-mail para cartadeservicos@sea.sc.gov.br com os dados abaixo para cadastro:  
+
+➔ Nome Completo;  
+
+➔ Email institucional;  
+
+➔ Perfil de acesso Editor ou Revisor;  
+
+➔ CPF;  
+
+➔ Órgão ao qual está vinculado; 
+
+➔ Lotação/Setor;  
+
+➔ Contato.
+
 
 2.2. ACESSO AO SISTEMA
 Inserir o e-mail do PAE cadastrado e senha do mesmo.

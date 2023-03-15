@@ -14,10 +14,10 @@ Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretori
 
 .. image:: teste.jpg    
 
-![Legenda](teste.jpg)
+!(teste.jpg)
 
 
-2. INFORMAÇÕES GERAIS 
+  2. INFORMAÇÕES GERAIS 
 
 O Governo do Estado está desenvolvendo o plano de transformação digital, e para isso os órgãos precisam atualizar a carta de serviços, de modo a possuir o censo de TODOS os serviços do estado prestados diretamente ao cidadão.
 E para isso a Carta de Serviços ao Cidadão precisa ser revisada constantemente e deve contemplar 100% dos serviços prestados pelo estado, digitais ou não. 

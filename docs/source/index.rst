@@ -52,26 +52,4 @@ Caso o órgão não tenha cadastrado um usuário editor e/ou um revisor, deve-se
 
 2.2. ACESSO AO SISTEMA  
 
-O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário ter uma conta gov.br. Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br)
-
-
-
-is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. Instrodução::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário ter uma conta gov.br. Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).

@@ -53,3 +53,31 @@ Caso o órgão não tenha cadastrado um usuário editor e/ou um revisor, deve-se
 2.2. ACESSO AO SISTEMA  
 
 O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário ter uma conta gov.br. Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).
+
+imagem da tela de login gov.br
+
+Após informar CPF e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.
+
+imagem da tela de Carta de Serviços ao Cidadão
+
+Ao lado esquerdo da tela aparecerá a aba Serviços. Nela o usuário conseguirá ter uma visão geral dos serviços (do órgão ao qual ele está autorizado a alterar) se houverem serviços já cadastrados, estes serviços podem ser alterados/removidos. Também verá a opção + Novo Serviço na qual poderá cadastrar um serviço inexistente até então.
+
+Ao lado direito aparecerá as seguintes opções (na primeira linha):
+
+Unidade Prestadora:
+Nome:
+Situação:
+
+São campos de filtragem que permitem selecionar visualizar determinados serviços vinculados aos filtros aplicados.
+
+Na segunda linha, aparecerá os seguintes campos:
+
+Nome;
+Grupo Serviço;
+Serviço Digital;
+Situação;
+Data de Atualização;
+Ações. Este é o único campo que NÃO representa uma informação que será alimentada durante a inclusão de um novo serviço.
+
+
+

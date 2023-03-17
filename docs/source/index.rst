@@ -60,7 +60,7 @@ Após informar CPF e senha aparecerá uma tela para cadastro/alteração de serv
 
 imagem da tela de Carta de Serviços ao Cidadão
 
-Ao lado esquerdo da tela aparecerá a aba Serviços. Nela o usuário conseguirá ter uma visão geral dos serviços (do órgão ao qual ele está autorizado a alterar) se houverem serviços já cadastrados, estes serviços podem ser alterados/removidos. Também verá a opção + Novo Serviço na qual poderá cadastrar um serviço inexistente até então.
+Ao lado esquerdo da tela aparecerá a aba Serviços. Nela o usuário conseguirá ter uma visão geral dos serviços (do órgão ao qual ele está autorizado a alterar) se houverem serviços já cadastrados, estes serviços podem ser alterados/removidos. Também verá a opção **+ Novo Serviço** na qual poderá cadastrar um serviço inexistente até então.
 
 Ao lado direito aparecerá as seguintes opções (na primeira linha):  
 

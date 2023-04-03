@@ -98,12 +98,19 @@ Para cadastramento dos serviços, alguns critérios devem ser observados no cada
 O nome deve indicar uma ação, na ótica do cidadão e não do órgão, devendo iniciar com verbo no infinitivo e ter poucas palavras. Exemplos de verbos: obter, manter, renovar, declarar, cancelar, registrar, solicitar, etc. 
 
 Exemplos de nomes de serviços: 
+
 ➔ Obter Vistoria de Habite-se  
+
 ➔ Mnater ( não encontrei serviço com este verbo) 
+
 ➔ Renovar registro de empresas operadoras de transporte coletivo 
+
 ➔ Declarar viagem sem objetivo comercial 
-➔ Cancelar DIEF-ITCMD
-➔ Registrar uma empresa
+
+➔ Cancelar DIEF-ITCMD 
+
+➔ Registrar uma empresa 
+
 ➔ Solicitar ligação de água
 
 Observação: o verbo solicitar é um dos mais utilizados pois na essência todo serviço é um solicitação.

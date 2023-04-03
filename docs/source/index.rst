@@ -131,21 +131,21 @@ Recomendações:
 
 3.2. O QUE **NÃO** DEVE SER CADASTRADO COMO UM SERVIÇO? 
 
-➔ Etapas de um serviço, como por exemplo: retirar/receber documentos, consultas de situação/andamento de serviço, retirar/receber licenças, pagamentos e agendamentos, emitir DAREs etc. são ações **não são serviços**.
+➔ Etapas de um serviço, como por exemplo: retirar/receber documentos, consultas de situação/andamento de serviço, retirar/receber licenças, pagamentos e agendamentos, emitir DAREs etc. são ações **não são serviços**. 
 
-➔ Programas de Governo **não são serviços e não podem ser cadastrados como tal** por exemplo: Minha Casa Minha Vida.
+➔ Programas de Governo **não são serviços e não podem ser cadastrados como tal** por exemplo: Minha Casa Minha Vida. 
 
-➔ Sistemas **não são serviços** o serviço que o sistema presta **sim**. Exemplo: “emitir nota fiscal eletrônica avulsa de ICMS” ou “solicitar cadastro do sistema X”.
+➔ Sistemas **não são serviços** o serviço que o sistema presta **sim**. Exemplo: “emitir nota fiscal eletrônica avulsa de ICMS” ou “solicitar cadastro do sistema X”. 
 
 ➔ Ouvidorias: não devem ser cadastradas como prestação de serviços. A recomendação é que cada órgão cadastre sua ouvidoria na sua página na internet. A Ouvidoria Geral do Estado será divulgada em um link no rodapé do portal da Carta de Serviços.
-Observação: existem algumas ouvidorias que estão cadastradas como serviço.
+Observação: existem algumas ouvidorias que estão cadastradas como serviço. 
 
-➔ Bibliotecas, acervos bibliográficos, consultas públicas, acervos documentais e legislações: os órgãos que **não possuem este serviço como atividade fim** não devem cadastrá-lo (são itens informacionais).
+➔ Bibliotecas, acervos bibliográficos, consultas públicas, acervos documentais e legislações: os órgãos que **não possuem este serviço como atividade fim** não devem cadastrá-lo (são itens informacionais). 
 
 ➔ Protocolo: não é um serviço prestado pelo órgão e sim um canal presencial no qual se obtém serviços. Protocolar um documento, por exemplo, não gera valor para o cidadão. O serviço está no propósito para o qual aquele documento foi entregue – este é o serviço propriamente dito.
-Observação: existe uma exceção que é o Protocolo Digital
+Observação: existe uma exceção que é o Protocolo Digital. 
 
-➔ Serviços internos do órgão: não são serviços acessados pelo cidadão e não devem ser cadastrados.
+➔ Serviços internos do órgão: não são serviços acessados pelo cidadão e não devem ser cadastrados. 
 
-➔ Relatórios de informações quantitativas e estatísticas: não são serviços e não devem ser cadastrados. Essas informações podem ser solicitadas via Sistema de Informação ao Cidadão (SIC).
+➔ Relatórios de informações quantitativas e estatísticas: não são serviços e não devem ser cadastrados. Essas informações podem ser solicitadas via Sistema de Informação ao Cidadão (SIC). 
 

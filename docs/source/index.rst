@@ -91,6 +91,8 @@ Ações. Este é o único campo que **NÃO** representa uma informação que ser
 
 3. CRITÉRIOS PARA CADASTRAR UM SERVIÇO DITI/SEA
 
+**Um serviço gera valor para o cidadão!**
+
 Para cadastramento dos serviços, alguns critérios devem ser observados no cadastramento dos serviços públicos prestados aos cidadãos/município/empresa, pautados nas orientações do Governo Federal.
 
 3.1. COMO CADASTRAR O NOME DE UM SERVIÇO? 
@@ -119,36 +121,31 @@ Recomendações:
 
 ➔ O nome do serviço deve ser claro quanto ao serviço e não fazer menção a apenas uma etapa do serviço: programa de governo, sistema, biblioteca, protocolo nem como ouvidoria ou SIC (Sistema de Informação ao Cidadão); 
 
-➔ O campo deve ter entre 20 e 65 letras (incluindo espaços), facilitando assim os mecanismos de busca. O 
-Google, por exemplo, exclui dos resultados frases com mais de 65 caracteres. Outro motivo é manter um 
-padrão visual dos nomes dos serviços no portal;
-➔ O nome não deve ser parecido com outros já cadastrados no portal, o que pode confundir o cidadão nas 
-buscas;
-➔ O público alvo não deve ser mencionado no item “Nome do Serviço”. Exemplo: Obter acesso à moradia 
-digna no campo para famílias de baixa renda;
-➔ O nome do serviço não deve ser genérico, deve ser claro e bem descrito. Ao invés de “Carteira de Motorista” 
-deve-se utilizar algo como “Solicitar Carteira de Habilitação (CNH)”. 
-3.2. O QUE NÃO DEVE SER CADASTRADO COMO UM SERVIÇO?
-➔ Etapas de um serviço: são cadastradas equivocadamente como serviços ações como retirar/receber 
-documentos, consultas de situação/andamento de serviço, retirar/receber licenças, solicitações, 
-pagamentos e agendamentos, emitir DAREs etc.
-➔ Programas de Governo: programas como o “Minha Casa Minha Vida” não são serviços e não podem ser 
-cadastrados como tal.
-DITI/SEA
-5
-Exemplo de cadastro de serviço que o programa pode representar: “obter financiamento de moradia nas 
-áreas urbanas”.
-➔ Sistemas: deve ser cadastrado o serviço que o sistema presta e não o sistema – este, por si só, não é um 
-serviço. Exemplo: “emitir nota fiscal eletrônica avulsa de ICMS” ou “solicitar cadastro do sistema X”.
-➔ Ouvidorias: não devem ser cadastradas como prestação de serviços. A recomendação é que cada órgão 
-cadastre sua ouvidoria na sua página na internet. A Ouvidoria Geral do Estado será divulgada em um link 
-no rodapé do portal da Carta de Serviços.
-➔ Bibliotecas, acervos bibliográficos, consultas públicas, acervos documentais e legislações: os órgãos que 
-não possuem este serviço como atividade fim não devem cadastrá-lo (são itens informacionais).
-➔ Protocolo: não é um serviço prestado pelo órgão e sim um canal presencial no qual se obtém serviços. 
-Protocolar um documento, por exemplo, não gera valor para o cidadão. O serviço está no propósito para o 
-qual aquele documento foi entregue – este é o serviço propriamente dito.
+➔ O campo deve ter entre 20 e 65 letras (incluindo espaços), facilitando assim os mecanismos de busca. O Google, por exemplo, exclui dos resultados frases com mais de 65 caracteres. Outro motivo é manter um padrão visual dos nomes dos serviços no portal; 
+
+➔ O nome não deve ser parecido com outros já cadastrados no portal, o que pode confundir o cidadão nas buscas; 
+
+➔ O público alvo não deve ser mencionado no item “Nome do Serviço”. Exemplo: Obter acesso à moradia digna no campo para famílias de baixa renda; 
+
+➔ O nome do serviço não deve ser genérico, deve ser claro e bem descrito. Ao invés de “Carteira de Motorista” deve-se utilizar algo como “Solicitar Carteira de Habilitação (CNH)”. 
+
+3.2. O QUE **NÃO** DEVE SER CADASTRADO COMO UM SERVIÇO? 
+
+➔ Etapas de um serviço, como por exemplo: retirar/receber documentos, consultas de situação/andamento de serviço, retirar/receber licenças, pagamentos e agendamentos, emitir DAREs etc. são ações **não são serviços**.
+
+➔ Programas de Governo **não são serviços e não podem ser cadastrados como tal** por exemplo: Minha Casa Minha Vida.
+
+➔ Sistemas **não são serviços** o serviço que o sistema presta **sim**. Exemplo: “emitir nota fiscal eletrônica avulsa de ICMS” ou “solicitar cadastro do sistema X”.
+
+➔ Ouvidorias: não devem ser cadastradas como prestação de serviços. A recomendação é que cada órgão cadastre sua ouvidoria na sua página na internet. A Ouvidoria Geral do Estado será divulgada em um link no rodapé do portal da Carta de Serviços.
+Observação: existem algumas ouvidorias que estão cadastradas como serviço.
+
+➔ Bibliotecas, acervos bibliográficos, consultas públicas, acervos documentais e legislações: os órgãos que **não possuem este serviço como atividade fim** não devem cadastrá-lo (são itens informacionais).
+
+➔ Protocolo: não é um serviço prestado pelo órgão e sim um canal presencial no qual se obtém serviços. Protocolar um documento, por exemplo, não gera valor para o cidadão. O serviço está no propósito para o qual aquele documento foi entregue – este é o serviço propriamente dito.
+Observação: existe uma exceção que é o Protocolo Digital
+
 ➔ Serviços internos do órgão: não são serviços acessados pelo cidadão e não devem ser cadastrados.
-➔ Relatórios de informações quantitativas e estatísticas: não são serviços e não devem ser cadastrados. 
-Essas informações podem ser solicitadas via Sistema de Informação ao Cidadão (SIC)
+
+➔ Relatórios de informações quantitativas e estatísticas: não são serviços e não devem ser cadastrados. Essas informações podem ser solicitadas via Sistema de Informação ao Cidadão (SIC).
 

@@ -15,6 +15,7 @@ Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretori
 .. image:: images/BrasãoSC.jpg
    :height: 1px
    :width: 1 px
+   :scale: 100
    :alt: brasão do Estada de Santa Catarina
    :align: right
   

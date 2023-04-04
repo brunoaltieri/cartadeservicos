@@ -15,7 +15,7 @@ Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretori
 .. image:: images/BrasãoSC.jpg
    :height: 25px
    :width: 20 px
-   :scale: 50 %
+   :scale: 1 %
    :alt: alternate text
    :align: right
   

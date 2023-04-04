@@ -17,7 +17,7 @@ Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretori
    :width: 15 px
    :scale: 10 %
    :alt: alternate text
-   :align: right
+   :align: center
   
 2. INFORMAÇÕES GERAIS 
 

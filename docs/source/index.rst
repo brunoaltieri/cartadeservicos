@@ -17,7 +17,7 @@ Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretori
    :width: 300 px
    :scale: 100%
    :alt: brasão de Santa Catarina
-   :align: center
+   :align: center 
   
   
 2. INFORMAÇÕES GERAIS 

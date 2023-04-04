@@ -19,8 +19,7 @@ Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretori
    :alt: brasão de Santa Catarina
    :align: center 
     
-  
-  
+    
 2. INFORMAÇÕES GERAIS 
 
 O Governo do Estado está desenvolvendo o plano de transformação digital, e para isso os órgãos precisam atualizar a carta de serviços, de modo a possuir o censo de TODOS os serviços do estado prestados diretamente ao cidadão.

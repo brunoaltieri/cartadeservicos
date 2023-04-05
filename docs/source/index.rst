@@ -77,7 +77,19 @@ Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá cria
    :align: center 
 
 
-Após informar CPF e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.
+Após informar CPF...
+
+.. image:: images/loginGovBrSenha.jpg 
+   :height: 250px
+   :width: 400 px
+   :scale: 100%
+   :alt: tela de login gov br solicitando o CPF
+   :align: center 
+
+
+
+
+e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.
 
 imagem da tela de Carta de Serviços ao Cidadão
 

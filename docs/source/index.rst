@@ -64,10 +64,18 @@ O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário te
    :height: 250px
    :width: 400 px
    :scale: 100%
-   :alt: brasão de Santa Catarina
+   :alt: tela de login gov br
    :align: center 
     
-Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).
+Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br). 
+
+.. image:: images/loginGovBrCPF.jpg 
+   :height: 250px
+   :width: 400 px
+   :scale: 100%
+   :alt: tela de login gov br solicitando o CPF
+   :align: center 
+
 
 Após informar CPF e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.
 

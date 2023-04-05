@@ -86,10 +86,7 @@ Após informar CPF...
    :alt: tela de login gov br solicitando o CPF
    :align: center 
 
-
-
-
-e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.
+... e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.
 
 imagem da tela de Carta de Serviços ao Cidadão
 

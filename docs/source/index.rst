@@ -83,7 +83,7 @@ Após informar CPF...
    :height: 250px
    :width: 400 px
    :scale: 100%
-   :alt: tela de login gov br solicitando o CPF
+   :alt: tela de login gov br solicitando a senha
    :align: center 
 
 ... e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.

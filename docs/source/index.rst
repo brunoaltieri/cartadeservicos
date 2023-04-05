@@ -58,14 +58,16 @@ Caso o órgão não tenha cadastrado um usuário editor e/ou um revisor, deve-se
 
 2.2. ACESSO AO SISTEMA  
 
-O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário ter uma conta gov.br. Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).
+O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário ter uma conta gov.br.
 
 .. image:: images/loginGovBr.jpg 
    :height: 250px
    :width: 400 px
    :scale: 100%
    :alt: brasão de Santa Catarina
-   :align: center
+   :align: center 
+    
+Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br).
 
 Após informar CPF e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.
 

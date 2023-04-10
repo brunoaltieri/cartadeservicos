@@ -102,7 +102,7 @@ Ao lado esquerdo da tela aparecerá a aba Serviços. Nela o usuário conseguirá
 
 Ao lado direito aparecerá as seguintes opções (na primeira linha):  
 
-Órgão:
+Órgão: 
 
 Unidade Prestadora:  
 

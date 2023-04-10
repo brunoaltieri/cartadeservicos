@@ -180,7 +180,7 @@ Recomendações:
 
 ➔ Ouvidorias: não devem ser cadastradas como prestação de serviços. A recomendação é que cada órgão cadastre sua ouvidoria na sua página na internet. A Ouvidoria Geral do Estado será divulgada em um link no rodapé do portal da Carta de Serviços. 
 
-Observação: existem algumas ouvidorias que estão cadastradas como serviço. 
+Observação: A **PGE (Prcuradoria Geral do Estado)** é uma exceção. 
 
 ➔ Bibliotecas, acervos bibliográficos, consultas públicas, acervos documentais e legislações: os órgãos que **não possuem este serviço como atividade fim** não devem cadastrá-lo (são itens informacionais). 
 

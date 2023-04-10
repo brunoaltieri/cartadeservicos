@@ -67,6 +67,7 @@ O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário te
    :alt: tela de login gov br
    :align: center 
     
+    
 Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br). 
 
 .. image:: images/loginGovBrCPF.jpg 
@@ -95,7 +96,7 @@ Após informar CPF...
    :alt: tela mostrando o sistema Carta de Serviços
    :align: center 
 
-imagem da tela de Carta de Serviços ao Cidadão
+
 
 Ao lado esquerdo da tela aparecerá a aba Serviços. Nela o usuário conseguirá ter uma visão geral dos serviços (do órgão ao qual ele está autorizado a alterar) se houverem serviços já cadastrados, estes serviços podem ser alterados/removidos. Também verá a opção **+ Novo Serviço** na qual poderá cadastrar um serviço inexistente até então.
 

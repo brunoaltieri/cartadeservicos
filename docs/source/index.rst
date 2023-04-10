@@ -174,7 +174,7 @@ Recomendações:
 
 ➔ Etapas de um serviço, como por exemplo: retirar/receber documentos, consultas de situação/andamento de serviço, retirar/receber licenças, pagamentos e agendamentos, emitir DAREs etc. são ações **não são serviços**. 
 
-➔ Programas de Governo **não são serviços e não podem ser cadastrados como tal** por exemplo: Minha Casa Minha Vida. 
+➔ Programas de Governo **não são serviços e não podem ser cadastrados como tal** por exemplo: *Minha Casa Minha Vida*. 
 
 ➔ Sistemas **não são serviços** o serviço que o sistema presta **sim**. Exemplo: “emitir nota fiscal eletrônica avulsa de ICMS” ou “solicitar cadastro do sistema X”. 
 

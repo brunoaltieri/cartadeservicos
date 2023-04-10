@@ -95,8 +95,8 @@ Após informar CPF...
    :scale: 100%
    :alt: tela mostrando o sistema Carta de Serviços
    :align: center 
-
-
+    
+    
 
 Ao lado esquerdo da tela aparecerá a aba Serviços. Nela o usuário conseguirá ter uma visão geral dos serviços (do órgão ao qual ele está autorizado a alterar) se houverem serviços já cadastrados, estes serviços podem ser alterados/removidos. Também verá a opção **+ Novo Serviço** na qual poderá cadastrar um serviço inexistente até então.
 

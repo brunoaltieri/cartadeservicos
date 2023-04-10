@@ -102,10 +102,13 @@ Ao lado esquerdo da tela aparecerá a aba Serviços. Nela o usuário conseguirá
 
 Ao lado direito aparecerá as seguintes opções (na primeira linha):  
 
+Órgão:
 
 Unidade Prestadora:  
 
-Nome:  
+Nome:
+
+Observação: este é o nome do serviço para pesquisa/filtro.
 
 Situação:  
 

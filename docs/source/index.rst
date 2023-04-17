@@ -116,7 +116,7 @@ Situação:
 São campos de filtragem que permitem selecionar visualizar determinados serviços vinculados aos filtros aplicados.
 
 .. image:: images/camposdefiltro.jpg 
-   :height: 100px
+   :height: 50px
    :width: 1200 px
    :scale: 100%
    :alt: tela mostrando os campos de filtro para os serviços

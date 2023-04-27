@@ -200,3 +200,11 @@ Observação: existe uma exceção que é o Protocolo Digital.
 
 ➔ Relatórios de informações quantitativas e estatísticas: não são serviços e **não** devem ser cadastrados. Essas informações podem ser solicitadas via Sistema de Informação ao Cidadão (SIC). 
 
+
+.. image:: images/ImagemCadastrodoServiço.jpg 
+   :height: 50px
+   :width: 1200 px
+   :scale: 100%
+   :alt: tela mostrando o fluxo do cadastro do serviço
+   :align: center 
+

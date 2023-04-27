@@ -202,7 +202,7 @@ Observação: existe uma exceção que é o Protocolo Digital.
 
 
 .. image:: images/ImagemCadastrodoServiço.jpg 
-   :height: 50px
+   :height: 500px
    :width: 1200 px
    :scale: 100%
    :alt: tela mostrando o fluxo do cadastro do serviço

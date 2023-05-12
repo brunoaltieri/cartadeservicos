@@ -211,5 +211,6 @@ Após a compilação dos serviços prestados pelo órgão, contendo todas as inf
 
 Outros dois campos foram cadastrados previamente pela Secretaria da Administração/DITI, que são os Temas e Grupos serão cadastrados. Caso não exista um tema ou grupo relacionado, basta solicitar para ser incluído.
 
-4.2. UNIDADE PRESTADORA
+4.2. UNIDADE PRESTADORA 
+
 A unidade prestadora é pré-requisito para inclusão de um serviço no portal administrativo, ou seja, antes de incluir qualquer serviço, deve-se listar e incluir separadamente no sistema todas as unidades prestadoras do órgão, que é o local onde o serviço é prestado. Deve conter as informações a seguir.

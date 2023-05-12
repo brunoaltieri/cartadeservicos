@@ -204,3 +204,8 @@ Observação: existe uma exceção que é o Protocolo Digital.
    :alt: tela mostrando o fluxo do cadastro do serviço
    :align: center 
 
+
+Antes de iniciar o cadastro de um serviço é importante buscar informações dos campos que necessitam ser preenchidos, finalidade, etapas, requisitos, local de acesso, unidade que o presta, telefone e principalmente, verificar se batem com as regras daquilo que pode ou não ser incluído na Carta de Serviços. O objetivo é evitar 
+o cadastro de algo que não corresponda a um serviço prestado diretamente ao cidadão.
+Após a compilação dos serviços prestados pelo órgão, contendo todas as informações pertinentes e necessárias para cadastramento do serviço, antes de cadastrá-lo, é momento de verificar todas as informações da unidade prestadora, que corresponde ao local onde o serviço é prestado.
+

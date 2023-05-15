@@ -221,8 +221,8 @@ A unidade prestadora é pré-requisito para inclusão de um serviço no portal a
    :scale: 100%
    :alt: tela mostrando os campos do cadastro de Unidade Prestadora
    :align: center 
-   
-   
+  
+
 4.2.1. **Nome Da Unidade Prestadora** 
       
 Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 65 caracteres. Exemplo: Delegacia 5º DP, Hospital Governador Celso Ramos, Escola Laura Lima, Posto de Fiscalização, Centro de Treinamento X, etc. 

@@ -214,3 +214,10 @@ Outros dois campos foram cadastrados previamente pela Secretaria da Administraç
 4.2. UNIDADE PRESTADORA 
 
 A unidade prestadora é pré-requisito para inclusão de um serviço no portal administrativo, ou seja, antes de incluir qualquer serviço, deve-se listar e incluir separadamente no sistema todas as unidades prestadoras do órgão, que é o local onde o serviço é prestado. Deve conter as informações a seguir.
+
+.. image:: images/ImagemCadastrodeUnidadePrestadora.jpg 
+   :height: 500px
+   :width: 1200 px
+   :scale: 100%
+   :alt: tela mostrando os campos do cadastro de Unidade Prestadora
+   :align: center 

@@ -221,3 +221,32 @@ A unidade prestadora é pré-requisito para inclusão de um serviço no portal a
    :scale: 100%
    :alt: tela mostrando os campos do cadastro de Unidade Prestadora
    :align: center 
+   
+   4.2.1. Nome Da Unidade Prestadora 
+   
+Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 65 caracteres. Exemplo: Delegacia 5º DP, Hospital Governador Celso Ramos, Escola Laura Lima,Posto de Fiscalização, Centro de Treinamento X, etc. 
+
+4.2.2. Endereço Da Unidade Prestadora Inserir o logradouro (Av., Rua, Serv., Rodovia, etc) e o Bairro. 
+
+4.2.3. Complemento Inserir o complemento do endereço, número, sala, bloco, nome do Prédio, etc. 
+
+4.2.4. CEP Inserir o CEP do local, se caso não houver, incluir CEP geral do Município. 
+
+4.2.5. Latitude Inserir a Latitude correspondente, (-27.541352) pode ser adquirida no google maps.
+
+4.2.6. Longitude Inserir a Longitude correspondente. (-48.503371) pode ser adquirida no google maps. 
+
+4.2.7. Órgão Inserir o órgão que a unidade prestadora está vinculada. 
+
+4.2.8. Abrangência Informar a abrangência de atendimento da unidade prestadora, Municipal, Regional ou Estadual. 
+
+4.2.9. Tipo De Unidade Prestadora Escolha entre os tipos pré cadastrados de unidade prestadora, caso não exista, pedir para ser incluída via email para SEA. 
+
+4.2.10. Município Selecionar o município onde está localizada a unidade prestadora.
+
+4.2.11. Horário De Atendimento Escolher a agenda do horário de atendimento da unidade prestadora. Caso não exista, pedir para ser incluída via e-mail para SEA. 
+
+4.2.12. Observação Do Horário De Atendimento Escrever observação de horário de atendimento, caso necessite.
+
+
+

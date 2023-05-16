@@ -251,7 +251,7 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
 
 5. CRIAR/INCLUIR UM NOVO SERVIÇO 
 
-.. image:: images/ImagemCadastrodeServicoparte1.jpg 
+.. image:: images/ImagemCadastrodeServiçoparte1.jpg 
    :height: 500px
    :width: 1200 px
    :scale: 100%

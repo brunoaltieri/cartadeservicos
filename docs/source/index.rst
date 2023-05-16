@@ -275,3 +275,18 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
    :alt: tela mostrando os campos do cadastro do Serviço
    :align: center 
 
+5.1. DISPOSIÇÕES GERAIS 
+
+Para a inclusão de um novo serviço, clicar na aba “serviço” em seguida “+ Novo Serviço”. Os campos são preenchidos em formato texto, número ou selecionar opções pré definidas. São campos obrigatórios os que estão destacados com “*” asterisco na frente. Estes campos devem ser preenchidos para completar o cadastro mínimo. 
+
+5.1.1. Nome Do Serviço 
+
+Especifique o nome do serviço de maneira clara e objetiva. Use verbos no infinitivo, aqueles que indicam uma ação. Lembre-se de que, quanto menos palavras, melhor a busca no sistema. O ideal é que o nome não ultrapasse 65 caracteres.
+Ex: Registrar Boletim de Ocorrência (BO). 
+
+5.1.2. URL Amigável 
+
+O termo URL está diretamente relacionado ao endereço de um site, de uma página. A URL amigável é uma URL mais fácil de ser compreendida, tanto para os buscadores como o Google, como para os usuários da página. 
+
+Exemplo: URL amigável: https://www.sc.gov.br/servicos/cursos-de-educacao-a-distancia
+

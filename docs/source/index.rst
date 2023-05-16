@@ -247,4 +247,13 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
 
 4.2.11. **Horário De Atendimento** Escolher a agenda do horário de atendimento da unidade prestadora. Caso não exista, pedir para ser incluída via e-mail para SEA. 
 
-4.2.12. **Observação** Do Horário De Atendimento Escrever observação de horário de atendimento, caso necessite.
+4.2.12. **Observação** Do Horário De Atendimento Escrever observação de horário de atendimento, caso necessite. 
+
+5. CRIAR/INCLUIR UM NOVO SERVIÇO 
+
+.. image:: images/ImagemCadastrodeServicoparte1.jpg 
+   :height: 500px
+   :width: 1200 px
+   :scale: 100%
+   :alt: tela mostrando os campos do cadastro de Unidade Prestadora
+   :align: center 

@@ -255,5 +255,11 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
    :height: 500px
    :width: 1200 px
    :scale: 100%
-   :alt: tela mostrando os campos do cadastro de Unidade Prestadora
+   :alt: tela mostrando os campos do cadastro do Serviço
+   :align: center 
+.. image:: images/ImagemCadastrodeServiçoparte1.jpg 
+   :height: 500px
+   :width: 1200 px
+   :scale: 100%
+   :alt: tela mostrando os campos do cadastro do Serviço
    :align: center 

@@ -314,5 +314,7 @@ Ex.: Carteira de Identidade (RG) tem por finalidade fornecer ao cidadão um regi
 
 5.1.11. **Requisitos Exigidos Do Usuário** Os requisitos são basicamente os documentos ou pré-requisitos que o solicitante deve atender para ter direito aquele serviço. As etapas devem ser inseridas uma abaixo da outra, sem hífen (-), numeração(1,2,3) ou qualquer ponto a frente. Exemplo serviço: “Solicitar carteira de identidade” 
 
-**Requisitos:** Ser brasileiro nato ou naturalizado Brasileiros natos solteiros, com idade entre 6 e 60 anos: certidão de nascimento original ou cópia autenticada 
-em cartório 
+**Requisitos:** Ser brasileiro nato ou naturalizado; Brasileiros natos solteiros, com idade entre 6 e 60 anos; certidão de nascimento original ou cópia autenticada 
+em cartório; 02 (duas) fotografias 3x4 com fundo branco, sem sorriso e adornos; Carteira de Identidade do responsável legal de menores de 16 anos. Caso seja 2ª via, pagar taxa referente à emissão.
+
+Dica: Para criar um título iniciar o texto com o símbolo “*” asterisco. O texto ficará com as letras maiúsculas e a numeração da listagem também será reiniciada.

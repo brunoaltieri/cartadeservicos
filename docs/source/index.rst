@@ -294,3 +294,25 @@ URL simples: https://www.sc.gov.br/servicos/?p=123
 
 Por padrão, o sistema da Carta de Serviços preenche o campo URL Amigável com o nome do serviço e palavras separadas por hífen. Orienta-se que este campo não seja alterado.
 
+5.1.3. **Finalidade** A descrição deve conter o resultado do que será entregue ao cidadão, ou seja, descreva o serviço de maneira simples e objetiva. Atenção para o limite de caracteres: 500 toques. 
+
+Ex.: Carteira de Identidade (RG) tem por finalidade fornecer ao cidadão um registro geral no Estado de Santa Catarina. Para assegurar a identidade do portador, o RG contém informações como naturalidade, data de nascimento, assinatura, nome dos pais, além da fotografia do titular. A carteira de identidade possibilita entrar e sair pelos portos e aeroportos de estados brasileiros e nos países do Mercosul. Renovar a carteira de identidade a cada 10 anos para manter atualizada a fotografia.
+
+5.1.4. **Tempo De Solicitação** Informe do tempo que o cidadão leva para solicitar o serviço. Este deve ser preenchido de duas formas: imediato ou numérico (1 hora).
+
+5.1.5. **Tempo De Execução** Informe o tempo de execução do serviço após a solicitação ter sido processada pelo órgão competente. Este campo deve ser preenchido apenas em dias (ex.: 5 dias úteis, 30 dias corridos) 
+
+5.1.6. **Url Do Site** Insira o link que leva direito ao serviço na internet. Caso não exista, coloque o endereço da página do órgão/instituição/secretaria e o caminho para acessar o serviço na descrição das etapas. 
+
+5.1.7. **Email De Contato** Inserir o e-mail específico para atendimento do serviço prestado. Caso não exista, incluir o e-mail geral da instituição para atendimento. Não incluir e-mail pessoal: mudanças de funcionários desatualizam o cadastro com facilidade. 
+
+5.1.8. **Telefone De Contato 1** Informe o telefone de contato/ramal direto de atendimento do serviço. Lembre-se de preencher o DDD. 
+
+5.1.9. **Telefone De Contato 2** Inserir outro telefone para atendimento do serviço prestado. Caso não exista, deixar em branco. 
+
+5.1.10. **Telefone 0800** Inserir o 0800 do serviço. Caso não exista, deixar em branco.
+
+5.1.11. **Requisitos Exigidos Do Usuário** Os requisitos são basicamente os documentos ou pré-requisitos que o solicitante deve atender para ter direito aquele serviço. As etapas devem ser inseridas uma abaixo da outra, sem hífen (-), numeração(1,2,3) ou qualquer ponto a frente. Exemplo serviço: “Solicitar carteira de identidade” 
+
+**Requisitos:** Ser brasileiro nato ou naturalizado Brasileiros natos solteiros, com idade entre 6 e 60 anos: certidão de nascimento original ou cópia autenticada 
+em cartório 

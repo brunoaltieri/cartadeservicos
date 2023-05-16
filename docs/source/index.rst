@@ -290,3 +290,7 @@ O termo URL está diretamente relacionado ao endereço de um site, de uma págin
 
 Exemplo: URL amigável: https://www.sc.gov.br/servicos/cursos-de-educacao-a-distancia
 
+URL simples: https://www.sc.gov.br/servicos/?p=123 
+
+Por padrão, o sistema da Carta de Serviços preenche o campo URL Amigável com o nome do serviço e palavras separadas por hífen. Orienta-se que este campo não seja alterado.
+

@@ -256,7 +256,7 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
    :width: 1200 px
    :scale: 100%
    :alt: tela mostrando os campos do cadastro do Serviço
-   :align: center
+   :align: center 
 .. image:: images/ImagemCadastrodeServiçoparte2.jpg 
    :height: 500px
    :width: 1200 px

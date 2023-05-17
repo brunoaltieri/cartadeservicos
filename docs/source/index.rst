@@ -374,4 +374,27 @@ Parcialmente digital: significa que o serviço possui alguma etapa digital, mas 
 
 Não digital: significa que o serviço não possui nenhuma etapa atendida por canal digital, somente presencial ou telefone, por exemplo. 
 
+5.1.19. **Tema** Selecionar a área que o serviço está relacionado, de preferência vinculado à função principal do órgão. 
+
+Exemplo: Agricultura, Educação, Desenvolvimento Econômico, etc. 
+
+5.1.20. **Grupo de Serviço** 
+
+Selecione um grupo no qual o serviço se enquadra. Exemplo: Se o tema é Educação, o grupo pode ser Ensino Fundamental. Se o tema é Empresas e Tributos, o grupo pode ser ICMS. 
+Caso não exista na lista, solicitar a inclusão pelo e-mail oficial da Carta de Serviços. 
+
+5.1.21. **Público** Escolher o público alvo do serviço. Para escolher mais de um, segurar a tecla Ctrl. 
+
+5.1.22. **Canal De Atendimento** Selecionar a forma de atendimento do serviço prestado. Caso exista mais de um, segurar a tecla Ctrl. Exemplo: Presencial e Telefone. 
+
+5.1.23. **Unidade Prestadora** 
+
+Informe quais unidades oferecem o serviço, unidades prestadoras não são setores. Para escolher mais de um, basta segurar a tecla Ctrl. 
+
+5.1.24. **Termos Relacionados**
+
+Cadastre palavras chaves/TAGs para facilitar a busca no portal. Para inserir, escreva e pressione “Enter”. Importante: não use mais de quatro palavras na mesma TAG. Ex: CNH; Carteira de Motorista; Habilitação. 
+
+
+
 

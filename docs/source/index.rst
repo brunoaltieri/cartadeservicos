@@ -329,7 +329,7 @@ Após a publicação, aparecerá da seguinte forma no Portal, conforme figura ab
    :height: 200px
    :width: 400 px
    :scale: 100%
-   :alt: tela mostrando os campos do cadastro do Serviço
+   :alt: tela mostrando mensagem do Portal
    :align: center 
    
 **Dica:** para os links de acesso que forem inseridos neste campo devem estar entre colchetes, no formato **[[link descrição]]** para que o link seja clicável. 
@@ -342,6 +342,10 @@ Exemplo: Enviar formulário de solicitação preenchido - [[http://sea.sc.gov.br
 
 Após a publicação, aparecerá da seguinte forma no Portal, conforme figura abaixo: 
 
-
-
+.. image:: images/ImagemMensagemPortal.jpg 
+   :height: 200px
+   :width: 400 px
+   :scale: 100%
+   :alt: tela mostrando mensagem do Portal
+   :align: center 
 

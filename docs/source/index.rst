@@ -393,7 +393,7 @@ Informe quais unidades oferecem o serviço, unidades prestadoras não são setor
 
 5.1.24. **Termos Relacionados**
 
-Cadastre palavras chaves/TAGs para facilitar a busca no portal. Para inserir, escreva e pressione “Enter”. Importante: não use mais de quatro palavras na mesma TAG. Ex: CNH; Carteira de Motorista; Habilitação. 
+Cadastre palavras chaves/TAGs para facilitar a busca no portal. Para inserir, escreva e pressione “Enter”. **Importante:** não use mais de quatro palavras na mesma TAG. Ex: CNH; Carteira de Motorista; Habilitação. 
 
 
 

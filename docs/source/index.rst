@@ -344,7 +344,7 @@ Após a publicação, aparecerá da seguinte forma no Portal, conforme figura ab
 
 .. image:: images/ImagemMensagemPortal2.jpg 
    :height: 300px
-   :width: 400 px
+   :width: 500 px
    :scale: 100%
    :alt: tela mostrando mensagem do Portal
    :align: center 

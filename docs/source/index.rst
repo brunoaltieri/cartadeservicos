@@ -367,7 +367,11 @@ Exemplo: Lei Federal no 8.666/1993 - [[http://www.planalto.gov.br/ccivil_03/leis
 5.1.17. **Acessibilidade** Informar se o local que presta o serviço presencial tem ou não acessibilidade. Informe “Sim” ou “Não”. 
 
 5.1.18. **Serviço Digital** Informar se o serviço é prestado digitalmente, parcialmente digital ou não digital. 
+
 Digital: significa que o cidadão realiza todas as etapas do serviço por meios digitais. 
+
 Parcialmente digital: significa que o serviço possui alguma etapa digital, mas ainda é necessário que o cidadão compareça a unidade prestadora para apresentar ou retirar documentos/informação. 
-Não digital: significa que o serviço não possui nenhuma etapa atendida por canal digital, somente presencial ou telefone, por exemplo.
+
+Não digital: significa que o serviço não possui nenhuma etapa atendida por canal digital, somente presencial ou telefone, por exemplo. 
+
 

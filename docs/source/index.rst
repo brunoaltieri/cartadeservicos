@@ -343,7 +343,7 @@ Exemplo: Enviar formulário de solicitação preenchido - [[http://sea.sc.gov.br
 Após a publicação, aparecerá da seguinte forma no Portal, conforme figura abaixo: 
 
 .. image:: images/ImagemMensagemPortal2.jpg 
-   :height: 200px
+   :height: 300px
    :width: 400 px
    :scale: 100%
    :alt: tela mostrando mensagem do Portal

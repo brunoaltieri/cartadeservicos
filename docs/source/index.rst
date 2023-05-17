@@ -323,4 +323,7 @@ Dica: Para criar um título iniciar o texto com o símbolo “*” asterisco. O 
 
 **Exemplo:** *Serviço Digital
 
+Após a publicação, aparecerá da seguinte forma no Portal, conforme figura abaixo:
+
+
 

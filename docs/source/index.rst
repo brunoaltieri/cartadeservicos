@@ -359,3 +359,15 @@ Decreto Estadual nº xxx/2018
 **Dica:** os links de acesso que forem inseridos neste campo devem estar entre colchetes, no formato **[[link descrição]]** para que o link seja clicável. 
 
 Exemplo: Lei Federal no 8.666/1993 - [[http://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm Consultar aqui]]
+
+5.1.15. **Sistema De Agendamento** Este campo só deve ser preenchido, se houver um sistema específico de agendamento, devendo ser Inserida a URL do sistema de agendamento do serviço prestado. 
+
+5.1.16. **Serviço Cobrado** Informe se o serviço é cobrado ou não. Selecione “sim” ou “não”. Não é necessário detalhar valores. 
+
+5.1.17. **Acessibilidade** Informar se o local que presta o serviço presencial tem ou não acessibilidade. Informe “Sim” ou “Não”. 
+
+5.1.18. **Serviço Digital** Informar se o serviço é prestado digitalmente, parcialmente digital ou não digital. 
+Digital: significa que o cidadão realiza todas as etapas do serviço por meios digitais. 
+Parcialmente digital: significa que o serviço possui alguma etapa digital, mas ainda é necessário que o cidadão compareça a unidade prestadora para apresentar ou retirar documentos/informação. 
+Não digital: significa que o serviço não possui nenhuma etapa atendida por canal digital, somente presencial ou telefone, por exemplo.
+

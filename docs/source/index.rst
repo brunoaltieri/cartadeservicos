@@ -319,7 +319,7 @@ Ex.: Carteira de Identidade (RG) tem por finalidade fornecer ao cidadão um regi
 **Requisitos:** Ser brasileiro nato ou naturalizado; Brasileiros natos solteiros, com idade entre 6 e 60 anos, certidão de nascimento original ou cópia autenticada 
 em cartório; 02 (duas) fotografias 3x4 com fundo branco, sem sorriso e adornos; Carteira de Identidade do responsável legal de menores de 16 anos. Caso seja 2ª via, pagar taxa referente à emissão.
 
-Dica: Para criar um título iniciar o texto com o símbolo “*” asterisco. O texto ficará com as letras maiúsculas e a numeração da listagem também será reiniciada. 
+**Dica:** Para criar um título iniciar o texto com o símbolo “*” asterisco. O texto ficará com as letras maiúsculas e a numeração da listagem também será reiniciada. 
 
 **Exemplo:** *Serviço Digital
 
@@ -332,6 +332,6 @@ Após a publicação, aparecerá da seguinte forma no Portal, conforme figura ab
    :alt: tela mostrando os campos do cadastro do Serviço
    :align: center 
    
-Dica: para os links de acesso que forem inseridos neste campo devem estar entre colchetes, no formato [[link descrição]] para que o link seja clicável. 
+**Dica:** para os links de acesso que forem inseridos neste campo devem estar entre colchetes, no formato **[[link descrição]]** para que o link seja clicável. 
 
 Exemplo: Enviar formulário de solicitação preenchido - [[http://sea.sc.gov.br/formulario-solicitacao acesse aqui]]

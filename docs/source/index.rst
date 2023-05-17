@@ -335,3 +335,13 @@ Após a publicação, aparecerá da seguinte forma no Portal, conforme figura ab
 **Dica:** para os links de acesso que forem inseridos neste campo devem estar entre colchetes, no formato **[[link descrição]]** para que o link seja clicável. 
 
 Exemplo: Enviar formulário de solicitação preenchido - [[http://sea.sc.gov.br/formulario-solicitacao acesse aqui]]
+
+**Dica:** Para criar um título iniciar o texto com o símbolo “*” asterisco. O texto ficará com as letras maiúsculas e a numeração da listagem também será reiniciada. 
+
+**Exemplo:** *On-line 
+
+Após a publicação, aparecerá da seguinte forma no Portal, conforme figura abaixo: 
+
+
+
+

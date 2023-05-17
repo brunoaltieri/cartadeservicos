@@ -327,7 +327,7 @@ Após a publicação, aparecerá da seguinte forma no Portal, conforme figura ab
 
 .. image:: images/ImagemMensagemPortal.jpg 
    :height: 400px
-   :width: 1100 px
+   :width: 600 px
    :scale: 100%
    :alt: tela mostrando os campos do cadastro do Serviço
    :align: center 

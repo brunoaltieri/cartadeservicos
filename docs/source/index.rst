@@ -326,7 +326,7 @@ Dica: Para criar um título iniciar o texto com o símbolo “*” asterisco. O 
 Após a publicação, aparecerá da seguinte forma no Portal, conforme figura abaixo:
 
 .. image:: images/ImagemMensagemPortal.jpg 
-   :height: 400px
+   :height: 200px
    :width: 400 px
    :scale: 100%
    :alt: tela mostrando os campos do cadastro do Serviço

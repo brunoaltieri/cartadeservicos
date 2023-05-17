@@ -349,3 +349,13 @@ Após a publicação, aparecerá da seguinte forma no Portal, conforme figura ab
    :alt: tela mostrando mensagem do Portal
    :align: center 
 
+5.1.13. **Tempo Médio De Atendimento** Informe quanto tempo será necessário entre o pedido, o atendimento e a entrega do serviço. Ex.: 15 dias 
+
+5.1.14. **Legislação Aplicável** Incluir a legislação que está vinculada ao serviço oferecido. Pode ser legislação exclusiva ou a lei que descreve as competências da instituição pública. 
+
+Apenas incluir se é uma lei federal ou estadual, número da legislação e ano. Listando uma abaixo da outra, não é necessário descrever a legislação. E.x: Lei Complementar Estadual nºxxx/2019 
+Decreto Estadual nº xxx/2018 
+
+**Dica:** os links de acesso que forem inseridos neste campo devem estar entre colchetes, no formato **[[link descrição]]** para que o link seja clicável. 
+
+Exemplo: Lei Federal no 8.666/1993 - [[http://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm Consultar aqui]]

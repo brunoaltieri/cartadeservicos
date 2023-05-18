@@ -222,6 +222,7 @@ A unidade prestadora é pré-requisito para inclusão de um serviço no portal a
    :alt: tela mostrando os campos do cadastro de Unidade Prestadora
    :align: center 
   
+  \vspace{1}
 
 4.2.1. **Nome Da Unidade Prestadora** 
       

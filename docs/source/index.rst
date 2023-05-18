@@ -416,5 +416,5 @@ Após a revisão do serviço o revisor terá duas opções, incluir pendências 
    :height: 450px
    :width: 1200 px
    :scale: 100%
-   :alt: tela mostrando Visão Geral dos Serviços
+   :alt: tela mostrando Serviço com Pendência
    :align: center 

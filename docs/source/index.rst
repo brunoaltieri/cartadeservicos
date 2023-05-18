@@ -395,6 +395,13 @@ Informe quais unidades oferecem o serviço, unidades prestadoras não são setor
 
 Cadastre palavras chaves/TAGs para facilitar a busca no portal. Para inserir, escreva e pressione “Enter”. **Importante:** não use mais de quatro palavras na mesma TAG. Ex: CNH; Carteira de Motorista; Habilitação. 
 
+6. REVISAR O SERVIÇO 
+
+Após a inclusão do serviço por parte do Editor dos serviços, este serviço estará disponível com o status “disponível para revisão”, ou seja, é o momento de o Revisor do órgão acessar e verificar se as informações inseridas pelo Editor estão compatíveis com as regras de cada campo e se há alguma questão ortográfica que precisa ser revista. Os servidores cadastrados terão acesso somente às informações de sua instituição. 
+
+Para revisar os itens previamente cadastrados é necessário clicar em “Editar Registro”, ícone verde. 
+
+Caso seja necessário deletar algum serviço, basta clicar em “Excluir Registro”, ícone vermelho.
 
 
 

@@ -428,7 +428,7 @@ Ao entrar no editor do serviço, o painel indica na parte superior (laranja) qua
    :height: 200px
    :width: 600 px
    :scale: 100%
-   :alt: tela mostrando Serviço com Pendência
+   :alt: tela mostrando Mensagem Serviço com Pendência
    :align: center 
 
 Para correção das pendências o Editor deve editar o serviço em questão e sanar os problemas levantados. Após isso, novamente o serviço fica disponível para revisão para homologação do revisor do órgão, finalizando o processo de inclusão do serviço, com a aprovação. 

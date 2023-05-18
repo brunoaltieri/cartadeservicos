@@ -410,7 +410,7 @@ Caso seja necessário deletar algum serviço, basta clicar em “Excluir Registr
    :alt: tela mostrando Visão Geral dos Serviços
    :align: center 
 
-Após a revisão do serviço o revisor terá duas opções, incluir pendências ou aprová-lo, caso haja pendência, essas informações deverão constar no campo imediatamente após a situação selecionada, conforme figura abaixo.
+Após a revisão do serviço o revisor terá duas opções, incluir pendências ou aprová-lo, caso haja pendência, essas informações deverão constar no campo imediatamente após a situação selecionada, conforme figura abaixo. 
 
 .. image:: images/ImagemServiçoComPedência.jpg 
    :height: 450px

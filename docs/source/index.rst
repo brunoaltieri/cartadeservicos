@@ -426,8 +426,8 @@ O perfil do Editor identifica os serviços que devem ser corrigidos pelo painel 
 Ao entrar no editor do serviço, o painel indica na parte superior (laranja) qual a pendência que precisa ser corrigida. 
 
 .. image:: images/ImagemMensagemServiçoComPendência.jpg 
-   :height: 170px
-   :width: 475 px
+   :height: 220px
+   :width: 500 px
    :scale: 100%
    :alt: tela mostrando Serviço com Pendência
    :align: center 

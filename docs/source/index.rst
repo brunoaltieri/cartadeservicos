@@ -418,8 +418,9 @@ Após a revisão do serviço o revisor terá duas opções, incluir pendências 
    :width: 475 px
    :scale: 100%
    :alt: tela mostrando Serviço com Pendência
-   :align: center 
-   \vspace{1cm}
+   :align: center
+   
+|
    
    O perfil do Editor identifica os serviços que devem ser corrigidos pelo painel principal na coluna “Situação” e uma mensagem é encaminhada por e-mail, indicando que aquele serviço foi colocado na situação “com pendências”.
    

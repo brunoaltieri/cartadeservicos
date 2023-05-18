@@ -422,11 +422,8 @@ Após a revisão do serviço o revisor terá duas opções, incluir pendências 
    :align: center 
    
 .. code-block:: rst
-
-Este é um parágrafo.
-
-\vspace{1cm}
-
+   Este é um parágrafo.
+   \vspace{1cm} 
 O perfil do Editor identifica os serviços que devem ser corrigidos pelo painel principal na coluna “Situação” e uma mensagem é encaminhada por e-mail, indicando que aquele serviço foi colocado na situação “com pendências”.
    
 Ao entrar no editor do serviço, o painel indica na parte superior (laranja) qual a pendência que precisa ser corrigida. 

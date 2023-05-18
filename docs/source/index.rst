@@ -404,8 +404,8 @@ Para revisar os itens previamente cadastrados é necessário clicar em “Editar
 Caso seja necessário deletar algum serviço, basta clicar em “Excluir Registro”, ícone vermelho.
 
 .. image:: images/ImagemServiçoVisãoGeral.jpg 
-   :height: 300px
-   :width: 450 px
+   :height: 600px
+   :width: 1200 px
    :scale: 100%
    :alt: tela mostrando Visão Geral dos Serviços
    :align: center 

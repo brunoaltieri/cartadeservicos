@@ -405,7 +405,7 @@ Caso seja necessário deletar algum serviço, basta clicar em “Excluir Registr
 
 .. image:: images/ImagemServiçoVisãoGeral.jpg 
    :height: 600px
-   :width: 1200 px
+   :width: 1000 px
    :scale: 100%
    :alt: tela mostrando Visão Geral dos Serviços
    :align: center 

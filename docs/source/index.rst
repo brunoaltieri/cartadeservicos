@@ -447,7 +447,10 @@ Ao entrar no editor do serviço, o painel indica na parte superior (laranja) qua
 
 .. role:: vermelho
    :class: red 
-Este é um texto em preto e este é um texto em :vermelho:`vermelho`.
+   :Este é um texto em preto e este é um texto em :vermelho:`vermelho`.:
+   
+Este é um texto em **preto** e este é um texto em <span style="color: red;">vermelho</span>.
+
 
    : Para correção das pendências o Editor deve editar o serviço em questão e sanar os problemas levantados. Após isso, novamente o serviço fica disponível para revisão para homologação do revisor do órgão, finalizando o processo de inclusão do serviço, com a aprovação. 
 

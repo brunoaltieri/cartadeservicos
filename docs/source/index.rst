@@ -432,7 +432,8 @@ Ao entrar no editor do serviço, o painel indica na parte superior (laranja) qua
    :alt: tela mostrando Mensagem Serviço com Pendência
    :align: center 
 \\ 
-\\
+\\ 
+
 Para correção das pendências o Editor deve editar o serviço em questão e sanar os problemas levantados. Após isso, novamente o serviço fica disponível para revisão para homologação do revisor do órgão, finalizando o processo de inclusão do serviço, com a aprovação. 
 
 Feito este processo o serviço automaticamente será publicado no portal sc.gov.br/servicos

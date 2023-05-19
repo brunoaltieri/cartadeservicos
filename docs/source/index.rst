@@ -84,7 +84,7 @@ Após informar CPF...
 
 .. image:: images/ExemploTelaDoCarta.jpg 
    :height: 400px
-   :width: 800 px
+   :width: 600 px
    :scale: 100%
    :alt: tela mostrando o sistema Carta de Serviços
    :align: center  

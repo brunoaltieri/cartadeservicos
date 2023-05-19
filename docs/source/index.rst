@@ -333,7 +333,7 @@ em cartório; 02 (duas) fotografias 3x4 com fundo branco, sem sorriso e adornos;
 Após a publicação, aparecerá da seguinte forma no Portal, conforme figura abaixo:
 
 .. image:: images/ImagemMensagemPortal.jpg 
-   :height: 200px
+   :height: 150px
    :width: 400 px
    :scale: 100%
    :alt: tela mostrando mensagem do Portal

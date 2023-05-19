@@ -58,8 +58,9 @@ O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário te
    :scale: 100%
    :alt: tela de login gov br
    :align: center 
-    
-    
+
+\ 
+
 Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br). 
 
 .. image:: images/loginGovBrCPF.jpg 
@@ -68,7 +69,7 @@ Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá cria
    :scale: 100%
    :alt: tela de login gov br solicitando o CPF
    :align: center 
-
+\ 
 
 Após informar CPF...
 
@@ -88,7 +89,7 @@ Após informar CPF...
    :alt: tela mostrando o sistema Carta de Serviços
    :align: center  
     
-    
+\  
 
 Ao lado esquerdo da tela aparecerá a aba Serviços. Nela o usuário conseguirá ter uma visão geral dos serviços (do órgão ao qual ele está autorizado a alterar) se houverem serviços já cadastrados, estes serviços podem ser alterados/removidos. Também verá a opção **+ Novo Serviço** na qual poderá cadastrar um serviço inexistente até então.
 
@@ -114,6 +115,7 @@ São campos de filtragem que permitem selecionar visualizar determinados serviç
    :alt: tela mostrando os campos de filtro para os serviços
    :align: center 
 
+\ 
 
 Na segunda linha, aparecerá os seguintes campos:  
 
@@ -204,6 +206,7 @@ Observação: existe uma exceção que é o Protocolo Digital.
    :alt: tela mostrando o fluxo do cadastro do serviço
    :align: center 
 
+\
 
 Antes de iniciar o cadastro de um serviço é importante buscar informações dos campos que necessitam ser preenchidos, finalidade, etapas, requisitos, local de acesso, unidade que o presta, telefone e principalmente, verificar se batem com as regras daquilo que pode ou não ser incluído na Carta de Serviços. O objetivo é evitar 
 o cadastro de algo que não corresponda a um serviço prestado diretamente ao cidadão.

@@ -222,7 +222,7 @@ A unidade prestadora é pré-requisito para inclusão de um serviço no portal a
    :alt: tela mostrando os campos do cadastro de Unidade Prestadora
    :align: center 
   
-  \vspace{1}
+\ 
 
 4.2.1. **Nome Da Unidade Prestadora** 
       
@@ -259,7 +259,7 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
    :alt: tela mostrando os campos do cadastro do Serviço
    :align: center 
                                                                                                                                                                 
-                                                                                                                                                                
+\                                                                                                                                                                 
     
 .. image:: images/ImagemCadastrodeServiçoparte2.jpg 
    :height: 500px
@@ -268,7 +268,7 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
    :alt: tela mostrando os campos do cadastro do Serviço
    :align: center 
    
-   
+\  
 .. image:: images/ImagemCadastrodeServiçoparte3.jpg 
    :height: 500px
    :width: 1200 px
@@ -332,7 +332,9 @@ Após a publicação, aparecerá da seguinte forma no Portal, conforme figura ab
    :scale: 100%
    :alt: tela mostrando mensagem do Portal
    :align: center 
-   
+  
+ \ 
+ 
 **Dica:** para os links de acesso que forem inseridos neste campo devem estar entre colchetes, no formato **[[link descrição]]** para que o link seja clicável. 
 
 Exemplo: Enviar formulário de solicitação preenchido - [[http://sea.sc.gov.br/formulario-solicitacao acesse aqui]]
@@ -349,6 +351,7 @@ Após a publicação, aparecerá da seguinte forma no Portal, conforme figura ab
    :scale: 100%
    :alt: tela mostrando mensagem do Portal
    :align: center 
+\ 
 
 5.1.13. **Tempo Médio De Atendimento** Informe quanto tempo será necessário entre o pedido, o atendimento e a entrega do serviço. Ex.: 15 dias 
 

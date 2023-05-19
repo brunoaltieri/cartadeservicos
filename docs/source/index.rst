@@ -431,6 +431,7 @@ Ao entrar no editor do serviço, o painel indica na parte superior (laranja) qua
    :scale: 100%
    :alt: tela mostrando Mensagem Serviço com Pendência
    :align: center 
+   
 \\ 
 
 \\ 

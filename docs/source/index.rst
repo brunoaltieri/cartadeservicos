@@ -22,7 +22,7 @@ Para acesso ao sistema Carta (https://cartaservicos-adm.ciasc.gov.br) é necess�
 
 O órgão deve eleger, no mínimo, dois servidores que serão responsáveis por coletar, inserir e revisar os serviços. Este número pode variar para cima de acordo com o porte do órgão.  
 
-O sistema contempl, por Órgaõ, dois perfis (editor e revisor), que devem ser pessoas distintas:  
+O sistema contempla, por Órgaõ, dois perfis (editor e revisor), que devem ser pessoas distintas:  
 
 * Editor: cadastrar os serviços e corrigir eventuais pendências;
 * Revisor: revisar os textos, informações e aprovar os serviços cadastrados ou editados. Pode ainda indicar a existência de pendências para o Editor corrigir. 

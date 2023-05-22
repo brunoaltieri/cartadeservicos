@@ -10,7 +10,7 @@ Estes serviços estão atualmente disponíveis para serem consumidos pelo cidad�
 
 “Art. 11. Os órgãos e entidades do Poder Executivo estadual que prestam serviços diretamente ao cidadão, deverão elaborar e divulgar Carta Estadual de Serviços ao Cidadão, no âmbito de sua esfera de competência.” 
 
-Atualmente a Secretaria do Estado da Administração (SEA), por meio da Diretoria de Tecnologia e Inovação (DITI), é a responsável pela definição das diretrizes da Carta de Serviços ao Cidadão. A Carta de Serviços pode ser vista como um ambiente digital (repositório digital) contendo diversas informações pertinentes aos serviços ofertados pelos órgãos e entidades do Poder Executivo estadual. 
+Atualmente a Secretaria de Ciência, Tecnologia e Inovação (SCTI), é a responsável pela definição das diretrizes da Carta de Serviços ao Cidadão. A Carta de Serviços pode ser vista como um ambiente digital (repositório digital) contendo diversas informações pertinentes aos serviços ofertados pelos órgãos e entidades do Poder Executivo estadual. 
 
 2. INFORMAÇÕES GERAIS 
 
@@ -31,7 +31,7 @@ O sistema contempla, por Órgaõ, dois perfis (editor e revisor), que devem ser 
 Importante observar que o editor é aquele que irá inserir no sistema administrativos as informações sobre os serviços que o órgão dispõe. Já o revisor irá conferir, sugerir alterações e aprovar a inclusão do material no sistema. 
 Cabe ressaltar, que o serviço só é publicado e fica disponível no portal (https://www.sc.gov.br/servicos), após aprovação do revisor.
 Por convenção, adotou-se o assessor de comunicação o revisor dos serviços.
-Caso o órgão não tenha cadastrado um usuário editor e/ou um revisor, deve-se encaminhar e-mail para cartadeservicos@sea.sc.gov.br com os dados abaixo para cadastro:  
+Caso o órgão não tenha cadastrado um usuário editor e/ou um revisor, deve-se encaminhar e-mail para bruno.altieri@scti.sc.gov.br com os dados abaixo para cadastro:  
 
 ➔ Nome Completo;  
 

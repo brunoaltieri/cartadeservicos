@@ -140,13 +140,11 @@ Para cadastramento dos serviços, alguns critérios devem ser observados no cada
 
 3.1. COMO CADASTRAR O NOME DE UM SERVIÇO? 
 
-O nome deve indicar uma ação (uma solicitação do cidadão ao órgão) devendo iniciar com verbo no infinitivo e ter poucas palavras. Exemplos de verbos: obter, manter, renovar, declarar, cancelar, registrar, solicitar, etc. 
+O nome deve indicar uma ação (uma solicitação do cidadão ao órgão) devendo iniciar com verbo no infinitivo e ter poucas palavras. Exemplos de verbos: obter, renovar, declarar, cancelar, registrar, solicitar, etc. 
 
 Exemplos de nomes de serviços: 
 
 ➔ Obter Vistoria de Habite-se  
-
-➔ Manter **(não encontrei serviço com este verbo)** 
 
 ➔ Renovar registro de empresas operadoras de transporte coletivo 
 

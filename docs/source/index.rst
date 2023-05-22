@@ -235,9 +235,9 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
 
 4.2.4. **CEP** Inserir o CEP do local, se caso não houver, incluir CEP geral do Município. 
 
-4.2.5. **Latitude** Inserir a Latitude correspondente, (-27.541352) pode ser adquirida no google maps.
+4.2.5. **Latitude** Inserir a Latitude correspondente, (-27.541352, por exemplo) pode ser adquirida no google maps.
 
-4.2.6. **Longitude** Inserir a Longitude correspondente. (-48.503371) pode ser adquirida no google maps. 
+4.2.6. **Longitude** Inserir a Longitude correspondente. (-48.503371 por exemplo) pode ser adquirida no google maps. 
 
 4.2.7. **Órgão** Inserir o órgão que a unidade prestadora está vinculada. 
 

@@ -132,7 +132,7 @@ Data de Atualização;
 
 Ações. Este é o único campo que **NÃO** representa uma informação que será alimentada durante a inclusão de um novo serviço.
 
-3. CRITÉRIOS PARA CADASTRAR UM SERVIÇO DITI/SEA
+3. CRITÉRIOS PARA CADASTRAR UM SERVIÇO
 
 **Um serviço gera valor para o cidadão!**
 

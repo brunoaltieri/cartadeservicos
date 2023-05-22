@@ -210,7 +210,7 @@ Antes de iniciar o cadastro de um serviço é importante buscar informações do
 o cadastro de algo que não corresponda a um serviço prestado diretamente ao cidadão.
 Após a compilação dos serviços prestados pelo órgão, contendo todas as informações pertinentes e necessárias para cadastramento do serviço, antes de cadastrá-lo, é momento de verificar todas as informações da unidade prestadora, que corresponde ao local onde o serviço é prestado.
 
-Outros dois campos foram cadastrados previamente pela Secretaria da Administração/DITI, que são os Temas e Grupos serão cadastrados. Caso não exista um tema ou grupo relacionado, basta solicitar para ser incluído.
+Outros dois campos foram cadastrados previamente pela SCTI, que são os Temas e Grupos aos quais os serviços deverão estar relacionados. Caso não exista um tema ou grupo nas opções, basta solicitar a inclusão.
 
 4.2. UNIDADE PRESTADORA 
 

@@ -229,7 +229,7 @@ A unidade prestadora é pré-requisito para inclusão de um serviço no portal a
       
 Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 65 caracteres. Exemplo: Delegacia 5º DP, Hospital Governador Celso Ramos, Escola Laura Lima, Posto de Fiscalização, Centro de Treinamento X, etc. 
 
-4.2.2. **Endereço** Da Unidade Prestadora Inserir o logradouro (Av., Rua, Serv., Rodovia, etc) e o Bair**ro. 
+4.2.2. **Endereço** Da Unidade Prestadora Inserir o logradouro (Av., Rua, Serv., Rodovia, etc) e o Bairro. 
 
 4.2.3. **Complemento** Inserir o complemento do endereço, número, sala, bloco, nome do Prédio, etc. 
 

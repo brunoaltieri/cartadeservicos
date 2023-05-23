@@ -189,7 +189,7 @@ Observação: existe uma exceção que é o Protocolo Digital.
 
 ➔ Serviços internos do órgão: **não** são serviços acessados pelo cidadão e **não** devem ser cadastrados. 
 
-➔ Relatórios de informações quantitativas e estatísticas: não são serviços e **não** devem ser cadastrados. Essas informações podem ser solicitadas via Sistema de Informação ao Cidadão (SIC). 
+➔ Relatórios de informações quantitativas e estatísticas: **não** são serviços e **não** devem ser cadastrados. Essas informações podem ser solicitadas via Sistema de Informação ao Cidadão (SIC). 
 
 
 4. CADASTRANDO NO SISTEMA ADMINISTRATIVO CARTA DE SERVIÇO

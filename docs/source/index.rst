@@ -242,7 +242,7 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
 
 4.2.8. **Abrangência** Informar a abrangência de atendimento da unidade prestadora, Municipal, Regional ou Estadual. 
 
-4.2.9. **Tipo De** Unidade Prestadora Escolha entre os tipos pré cadastrados de unidade prestadora, caso não exista, pedir para ser incluída via email para SEA. 
+4.2.9. **Tipo De** Unidade Prestadora Escolha entre os tipos pré cadastrados de unidade prestadora, caso não exista, pedir para ser incluída via email para SCTI. 
 
 4.2.10. **Município** Selecionar o município onde está localizada a unidade prestadora.
 

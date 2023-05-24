@@ -408,7 +408,7 @@ Informe quais unidades oferecem o serviço, unidades prestadoras não são setor
 
 Cadastre palavras chaves/TAGs para facilitar a busca no portal. Para inserir, escreva e pressione “Enter”. **Importante:** não use mais de quatro palavras na mesma TAG. Ex: CNH; Carteira de Motorista; Habilitação. 
 
-**URL da Documentação do Processo de Negócio** link externo para acesso à documentação e diagramas de processo. Utilizado para quano o processo está devidamente mapeado.
+5.1.25. **URL da Documentação do Processo de Negócio** link externo para acesso à documentação e diagramas de processo. Utilizado para quano o processo está devidamente mapeado.
 
 6. REVISAR O SERVIÇO 
 

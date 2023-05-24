@@ -316,7 +316,7 @@ Nota: no campo seguinte que é **Contato 1 é WhatsApp?** é possível informar 
 
 5.1.9. **Telefone De Contato 2** Inserir outro telefone para atendimento do serviço prestado. Caso não exista, deixar em branco. 
 
-Nota: no campo seguinte que é **Contato 2 é WhatsApp?** é possível informar se o primeiro telefone de contato possui WhatsApp, basta selecionar SIM ou NÃO.
+Nota: no campo seguinte que é **Contato 2 é WhatsApp?** é possível informar se o segundo telefone de contato possui WhatsApp, basta selecionar SIM ou NÃO.
 
 5.1.10. **Telefone 0800** Inserir o 0800 do serviço. Caso não exista, deixar em branco.
 

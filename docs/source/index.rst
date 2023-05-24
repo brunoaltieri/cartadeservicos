@@ -327,6 +327,8 @@ Nota: no campo seguinte que é **Contato 2 é WhatsApp?** é possível informar 
 **Requisitos:** Ser brasileiro nato ou naturalizado; Brasileiros natos solteiros, com idade entre 6 e 60 anos, certidão de nascimento original ou cópia autenticada 
 em cartório; 02 (duas) fotografias 3x4 com fundo branco, sem sorriso e adornos; Carteira de Identidade do responsável legal de menores de 16 anos. Caso seja 2ª via, pagar taxa referente à emissão.
 
+Nota: um **Requisito básico** para solicitar um serviço é ter o login gov.br 
+
 **Dica:** Para criar um título iniciar o texto com o símbolo “*” asterisco. O texto ficará com as letras maiúsculas e a numeração da listagem também será reiniciada. 
 
 **Exemplo:** *Serviço Digital

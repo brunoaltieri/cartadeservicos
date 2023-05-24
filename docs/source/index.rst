@@ -236,7 +236,7 @@ Especifique o nome da unidade prestadora. O ideal é que o nome não ultrapasse 
 
 4.2.5. **Latitude** Inserir a Latitude correspondente, (-27.541352, por exemplo) pode ser adquirida no google maps.
 
-4.2.6. **Longitude** Inserir a Longitude correspondente. (-48.503371 por exemplo) pode ser adquirida no google maps. 
+4.2.6. **Longitude** Inserir a Longitude correspondente. (-48.503371, por exemplo) pode ser adquirida no google maps. 
 
 4.2.7. **Órgão** Inserir o órgão que a unidade prestadora está vinculada. 
 

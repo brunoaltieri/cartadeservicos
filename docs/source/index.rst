@@ -292,9 +292,9 @@ Ex: Registrar Boletim de Ocorrência (BO).
 
 O termo URL está diretamente relacionado ao endereço de um site, de uma página. A URL amigável é uma URL mais fácil de ser compreendida, tanto para os buscadores como o Google, como para os usuários da página. 
 
-Exemplo: URL amigável: https://www.sc.gov.br/servicos/cursos-de-educacao-a-distancia
+Exemplo: URL amigável: acessar-cursos-de-educacao-a-distancia
 
-URL simples: https://www.sc.gov.br/servicos/?p=123 
+URL simples: https://www.sc.gov.br/servicos/acessar-cursos-de-educacao-a-distancia
 
 Por padrão, o sistema da Carta de Serviços preenche o campo URL Amigável com o nome do serviço e palavras separadas por hífen. Orienta-se que este campo não seja alterado.
 

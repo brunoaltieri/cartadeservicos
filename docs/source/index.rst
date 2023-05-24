@@ -306,7 +306,7 @@ Ex.: Carteira de Identidade (RG) tem por finalidade fornecer ao cidadão um regi
 
 5.1.5. **Tempo De Execução** Informe o tempo de execução do serviço após a solicitação ter sido processada pelo órgão competente. Este campo deve ser preenchido apenas em dias (ex.: 5 dias úteis, 30 dias corridos) 
 
-5.1.6. **Url Do Site** Insira o link que leva direito ao serviço na internet. Caso não exista, coloque o endereço da página do órgão/instituição/secretaria e o caminho para acessar o serviço na descrição das etapas. 
+5.1.6. **Url Do Site** Insira o link que leva direto ao serviço na internet. Caso não exista, coloque o endereço da página do órgão/instituição/secretaria e o caminho para acessar o serviço na descrição das etapas. 
 
 5.1.7. **Email De Contato** Inserir o e-mail específico para atendimento do serviço prestado. Caso não exista, incluir o e-mail geral da instituição para atendimento. Não incluir e-mail pessoal: mudanças de funcionários desatualizam o cadastro com facilidade. 
 

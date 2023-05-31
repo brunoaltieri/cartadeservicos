@@ -116,7 +116,7 @@ São campos de filtragem que permitem selecionar visualizar determinados serviç
 
 \ 
 
-Na segunda linha, aparecerá os seguintes campos:  
+Na segunda linha aparecerá os seguintes campos:  
 
 
 Nome;  

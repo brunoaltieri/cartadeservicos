@@ -63,8 +63,8 @@ O acesso ao sistema Carta dar-se-á pelo login gov.br portanto é neceesário te
 Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá criar a conta neste link (https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br). 
 
 .. image:: images/loginGovBrCPF.jpg 
-   :height: 250px
-   :width: 400 px
+   :height: 300px
+   :width: 600 px
    :scale: 100%
    :alt: tela de login gov br solicitando o CPF
    :align: center 

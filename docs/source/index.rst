@@ -109,7 +109,7 @@ São campos de filtragem que permitem selecionar visualizar determinados serviç
 
 .. image:: images/camposdefiltro.jpg 
    :height: 400px
-   :width: 600 px
+   :width: 200 px
    :scale: 100%
    :alt: tela mostrando os campos de filtro para os serviços
    :align: center 

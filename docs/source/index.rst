@@ -430,7 +430,7 @@ Após a revisão do serviço o revisor terá duas opções, incluir pendências 
 
 .. image:: images/ImagemServiçoComPendência.jpg 
    :height: 170px
-   :width: 475 px
+   :width: 400 px
    :scale: 100%
    :alt: tela mostrando Serviço com Pendência
    :align: center 

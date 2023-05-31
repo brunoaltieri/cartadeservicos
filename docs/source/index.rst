@@ -73,8 +73,8 @@ Na inexistência de uma conta vinculada ao perfil, o editor/revisor deverá cria
 Após informar CPF...
 
 .. image:: images/loginGovBrSenha.jpg 
-   :height: 250px
-   :width: 400 px
+   :height: 300px
+   :width: 600 px
    :scale: 100%
    :alt: tela de login gov br solicitando a senha
    :align: center 

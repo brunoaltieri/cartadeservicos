@@ -298,7 +298,7 @@ URL simples: https://www.sc.gov.br/servicos/acessar-cursos-de-educacao-a-distanc
 
 Por padrão, o sistema da Carta de Serviços preenche o campo URL Amigável com o nome do serviço e palavras separadas por hífen. Orienta-se que este campo não seja alterado.
 
-5.1.3. **Finalidade** A descrição deve conter o resultado do que será entregue ao cidadão, ou seja, descreva o serviço de maneira simples e objetiva. Atenção para o limite de caracteres: 500 toques. 
+5.1.3. **Finalidade** A descrição deve conter o resultado do que será entregue ao cidadão, ou seja, descreva o serviço de maneira simples (utilize Linguagem Simples) e objetiva. Atenção para o limite de caracteres: 500 toques. 
 
 Ex.: Carteira de Identidade (RG) tem por finalidade fornecer ao cidadão um registro geral no Estado de Santa Catarina. Para assegurar a identidade do portador, o RG contém informações como naturalidade, data de nascimento, assinatura, nome dos pais, além da fotografia do titular. A carteira de identidade possibilita entrar e sair pelos portos e aeroportos de estados brasileiros e nos países do Mercosul. Renovar a carteira de identidade a cada 10 anos para manter atualizada a fotografia.
 

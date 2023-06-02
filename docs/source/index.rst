@@ -74,7 +74,7 @@ Após informar CPF...
 
 .. image:: images/loginGovBrSenha.jpg 
    :height: 300px
-   :width: 600 px
+   :width: 800 px
    :scale: 100%
    :alt: tela de login gov br solicitando a senha
    :align: center 

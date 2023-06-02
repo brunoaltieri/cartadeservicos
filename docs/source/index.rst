@@ -82,7 +82,7 @@ Após informar CPF...
 ... e senha aparecerá uma tela para cadastro/alteração de serviços. Como a tela abaixo.
 
 .. image:: images/ExemploTelaDoCarta.jpg 
-   :height: 250px
+   :height: 300px
    :width: 800 px
    :scale: 100%
    :alt: tela mostrando o sistema Carta de Serviços

@@ -107,7 +107,7 @@ Situação:
 
 São campos de filtragem que permitem selecionar visualizar determinados serviços vinculados aos filtros aplicados.
 
-.. image:: images/camposdefiltro.jpg 
+.. image:: images/camposdefiltro_compressed.jpg 
    :height: 150px
    :width: 650 px
    :scale: 100%
